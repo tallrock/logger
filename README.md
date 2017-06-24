@@ -1,5 +1,6 @@
+# logger
 
-Yet another troubleshooting log file / debug tool - with a twist
+## Another troubleshooting log file / debug tool - but with a twist
 
 Everyone writes logging routines to help them troubleshoot problems or debug a program.
 I've written a bunch over the years as well. But this one is a little different.
